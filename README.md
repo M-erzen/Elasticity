@@ -2,10 +2,10 @@
 This respository includes the Elasticity program.
 
 requirements:
-python 3x
-numpy
+Python 3x
+Numpy
 
-download Elasticity.py and "python Elasticity.py" command run.
+Download Elasticity.py and "python Elasticity.py" command run.
 
 
 
